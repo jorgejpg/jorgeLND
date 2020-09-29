@@ -9,3 +9,5 @@ En el repositorio podemos encontrar las siguentes carpetas:
 
 + practicas `\jorgeLND\practicas`
 + tareas `\jorgeLND\tareas`
+
+[Web del instituto]: https://blog.iespuertodelacruz.es/
