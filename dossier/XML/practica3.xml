@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Tue Jan 26 15:50:06 GMT 2021 -->
-
+<?xml version=1.0”>
 
 <libros>
   <libro>
@@ -21,4 +18,3 @@
     <titulo> Libro cocina </titulo>
     <editorial> Editorial 3 </editorial>
   </libro>
- </libros>

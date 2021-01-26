@@ -1,0 +1,9 @@
+<!-- DTD created at Tue Jan 26 16:04:38 GMT 2021 with EditiX XML Editor (http://www.editix.com). Please insert an encoding attribute header for converting any DTD  -->
+
+<!ELEMENT  libros (libro)+>
+<!ELEMENT libro (titulo, autor, editorial)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+
+
