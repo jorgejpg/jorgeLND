@@ -1,0 +1,15 @@
+
+
+Práctica 13:
+Documento1:
+    Válido
+Documento2:
+    No válido
+Documento3:
+    Válido
+Documento4:
+    No válido
+Documento5:
+    Válido
+Documento6:
+    Válido

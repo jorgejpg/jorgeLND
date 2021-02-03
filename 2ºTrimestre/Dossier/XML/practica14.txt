@@ -1,0 +1,15 @@
+
+
+Práctica 14:
+
+1º
+El documento es válido según ese archivo DTD.
+
+2º
+El elemento AAA no es obligatorio, BBB si que lo es.
+
+3º
+El documento xml está correctamente escrito.
+
+4º
+El documento tambien es correcto.

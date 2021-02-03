@@ -1,0 +1,11 @@
+<!-- DTD created at Wed Jan 27 16:32:12 GMT 2021 with EditiX XML Editor (http://www.editix.com). Please insert an encoding attribute header for converting any DTD  -->
+
+<!ELEMENT  Agenda (Persona)>
+<!ELEMENT Persona (Nombre, Apellido, Email, Oficina, Telefono, Movil)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Apellido (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT Oficina (#PCDATA)>
+<!ELEMENT Telefono (#PCDATA)>
+<!ELEMENT Movil (#PCDATA)>
+

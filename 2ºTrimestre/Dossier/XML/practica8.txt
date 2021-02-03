@@ -1,0 +1,11 @@
+
+
+Práctica 6:
+Documento1:
+    Válido
+Documento2:
+    No válido
+Documento3:
+    Válido
+Documento4:
+    Válido

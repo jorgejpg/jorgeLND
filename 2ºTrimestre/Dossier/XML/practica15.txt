@@ -1,0 +1,5 @@
+
+
+Práctica 15:
+
+El documento xml es valido segun el DTD del ejercicio.

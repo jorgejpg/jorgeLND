@@ -1,0 +1,11 @@
+
+
+Práctica 9:
+Documento1:
+    Válido
+Documento2:
+    Válido
+Documento3:
+    No válido
+Documento4:
+    Válido
