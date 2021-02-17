@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<equipos>
+  <equipo>
+    <nombre> equipo1 </nombre>
+    <ciudad> ciudad1 </ciudad>
+    <entrenador/>
+    <jugador posicion="portero">
+      <nombre> pepe </nombre>
+      <nacionalidad> española </nacionalidad>
+    </jugador>
+    <jugador posicion="defenza">
+      <nombre> juan </nombre>
+      <nacionalidad> española </nacionalidad>
+    </jugador>
+  </equipo>
+  <equipo>
+    <nombre> equipo2 </nombre>
+    <ciudad> ciudad2 </ciudad>
+    <entrenador/>
+    <jugador posicion="delantero">
+      <nombre> jorge </nombre>
+      <nacionalidad> española </nacionalidad>
+    </jugador>
+    <jugador posicion="centro">
+      <nombre> cesar </nombre>
+      <nacionalidad> ingles </nacionalidad>
+    </jugador>
+  </equipo>
+</equipos>

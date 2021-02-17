@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <marcadores>
   <marcador>
@@ -16,4 +16,4 @@
     <descripcion>World Wide Web Consortium</descripcion>
     <url>http://www.w3.org/</url>
   </marcador>
-</marcadores>  
+</marcadores>
