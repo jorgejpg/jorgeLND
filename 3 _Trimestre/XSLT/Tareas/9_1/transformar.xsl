@@ -9,6 +9,7 @@
 	<xsl:template match="/">
 	<html>
 		<body>
+			<h3>Faltas justificadas</h3>
 			<table>
 				<tr>
 					<td  bgcolor="green">Nº</td>
@@ -19,18 +20,19 @@
 			</table>
 			<br/>
 		
-	<table>
+	<h3 >Faltas injustificadas</h3>
+			<table>
 		
-		<tr>
+				<tr>
 		
-			<td  bgcolor="red">Nº</td>
+					<td  bgcolor="red">Nº</td>
 					<td  bgcolor="red">CIAL</td>
 					<td  bgcolor="red">Total faltas injustificadas</td>
 					<xsl:apply-templates select="/faltas/alumno" mode="injustificado"/>
 		
-		</tr>
+				</tr>
 		
-	</table>
+			</table>
 		
 		</body>
 	</html>
