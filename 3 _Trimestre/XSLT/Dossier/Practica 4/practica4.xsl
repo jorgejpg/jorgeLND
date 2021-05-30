@@ -13,7 +13,7 @@
         <h1>LISTA DE ALUMNOS:</h1>
         <ul>
 <!-- Todo lo que tenga el prefijo xsl serán reglas para transformar el documento xml de entrada mediante plantillas-->
-<xsl:apply-templates select="/instituto/curso"/>
+<xsl:apply-templates select="/instituto/curso [@nombre='2º ASIR']"/>
 <!-- indicamos que se apliquen las plantillas a los nodos curso y descendientes-->
         </ul>
     </body>
@@ -21,16 +21,16 @@
 </xsl:template> <!-- fin de la primera plantilla -->
 
 <xsl:template match="alumno"><!-- En esta plantilla transformamos la etiqueta alumno (está dentro de curso)-->
-    <li><!-- cada alumno lo convertimos en un elemento de lista-->
+    <li><!-- cada alumno lo convertimos en un elemento de lista--> 
         Nombre: <b>
             <xsl:value-of select="./nombre"/><!-- salida del texto que está dentro de nombre en negrita-->
                 </b>
-            <!-- salida del texto que está dentro de apellidos-->
+            <!-- salida del texto que está dentro de apellidos--> 
                 <br/>Apellidos: <xsl:value-of select="./apellidos"/> <!-- salida del atributo cial-->
                 <br/>CIAL: <xsl:value-of select="@cial"/>
                 <br/>Curso: <xsl:value-of select="../@nombre"/>
                 <hr noshade="noshade"/>
     </li>
-</xsl:template> <!-- fin de la segunda plantilla-->
+</xsl:template> <!-- fin de la segunda plantilla--> 
 
 </xsl:stylesheet>

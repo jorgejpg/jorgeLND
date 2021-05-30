@@ -4,13 +4,29 @@
 
 	<xsl:template match="/">
 		<noticias>
-			<xsl:apply-templates select="/Category/Feed/Item"/>
+			<xsl:apply-templates select="Category/Feed/item"/>
+	
 		</noticias>
 	</xsl:template> 
-
 	<xsl:template match="item">
-	      <titulo>
-	      	<xsl:apply-templates select="title"></xsl:apply-templates>
-	      </titulo>	 
+	
+	<html>
+	
+		<body>
+	
+			<table style="width:70%" border="1px">
+	
+				<tr>
+	
+					<td><titulo><xsl:value-of select="title"/> 
+</titulo>
+</td>
+				</tr>
+			</table>
+			<br></br>
+	
+		</body>
+	
+	</html>
 	</xsl:template> 
 </xsl:stylesheet>

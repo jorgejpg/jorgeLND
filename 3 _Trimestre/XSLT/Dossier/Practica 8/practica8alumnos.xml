@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-stylesheet type="text/xsl" href="alumnos_estilos5.xsl"?>
+<!--<?xml-stylesheet type="text/xsl" href="transformar04.xsl"?>-->
+<?xml-stylesheet type="text/xsl" href="practica8.xsl"?>
 <!-- New document created with EditiX at Mon Apr 04 17:43:56 BST 2011 -->
 
 <instituto codigo="38010700" nombre="IES Domingo Pérez Minik">
     <curso codigo="1" nombre="1º ASIR">
         <alumno cial="A18X111">
-            <nombre>Javier</nombre>
+            <nombre>Javier </nombre>
             <apellidos>Márquez Fernández</apellidos>
             <!-- Javier Márquez NO es un alumno repetidor -->
             <repetidor>False</repetidor>
@@ -22,7 +23,7 @@
             </notas>
         </alumno>
         <alumno cial="A27M242">
-            <nombre>María</nombre>
+            <nombre>María </nombre>
             <apellidos>Álvarez Pérez</apellidos>
             <!-- María Álvarez es una alumna repetidora -->
             <repetidor>True</repetidor>
@@ -38,7 +39,7 @@
             </notas>
         </alumno>
         <alumno cial="A90R112">
-            <nombre>Iván</nombre>
+            <nombre>Iván </nombre>
             <apellidos>Rodríguez Pérez</apellidos>
             <repetidor>False</repetidor>
             <notas>
@@ -55,7 +56,7 @@
     </curso>
     <curso codigo="2" nombre="2º ASIR">
         <alumno cial="A92T861">
-            <nombre>Marcos</nombre>
+            <nombre>Marcos </nombre>
             <apellidos>Domínguez</apellidos>
             <repetidor>True</repetidor>
             <notas>
@@ -70,7 +71,7 @@
             </notas>
         </alumno>
         <alumno cial="A92R003">
-            <nombre>Luis Fernando</nombre>
+            <nombre>Luis Fernando </nombre>
             <apellidos>Jiménez Pérez</apellidos>
             <repetidor>False</repetidor>
              <notas>
@@ -86,7 +87,7 @@
                </notas>
         </alumno>
         <alumno cial="A87R122">
-            <nombre>Elena</nombre>
+            <nombre>Elena </nombre>
             <apellidos>Ramírez</apellidos>
             <repetidor>False</repetidor>
             <notas>
@@ -104,7 +105,7 @@
 
      <curso codigo="3" nombre="1º DAI">
         <alumno cial="A95M600">
-            <nombre>Irina</nombre>
+            <nombre>Irina </nombre>
             <apellidos>Lugo Lugo</apellidos>
             <repetidor>False</repetidor>
             <notas>
@@ -119,7 +120,7 @@
             </notas>
         </alumno>
         <alumno cial="A92R543">
-            <nombre>Genaro</nombre>
+            <nombre>Genaro </nombre>
             <apellidos>Hernández Hernández</apellidos>
             <repetidor>True</repetidor>
             <notas>
@@ -134,7 +135,7 @@
             </notas>
         </alumno>
         <alumno cial="A92R590">
-            <nombre>Miguel</nombre>
+            <nombre>Miguel </nombre>
             <apellidos>Rodríguez</apellidos>
             <repetidor>False</repetidor>
             <notas>
