@@ -1,0 +1,1875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACCIONES>
+	<OFICINA sede="Icod de los Vinos">
+		<ACCION>
+			<INICIO>2014-01-15</INICIO>
+			<FINAL>15/01/2014</FINAL>
+			<NOMBRE>Tratamiento de invierno y control de excoriosis</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Santa Bárbara</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-19</INICIO>
+			<FINAL>19/02/2014</FINAL>
+			<NOMBRE>Presentación de resultados de ensayos en cultivos hortícolas</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Santa Bárbara</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-17</INICIO>
+			<FINAL>27/03/2014</FINAL>
+			<NOMBRE>Manipulador de productos fitosanitarios. Nivel básico</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>San Jose</LUGAR>
+			<MUNICIPIO>San Juan de la Rambla</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-17</INICIO>
+			<FINAL>27/03/2014</FINAL>
+			<NOMBRE>Manipulador de productos fitosanitarios. Nivel básico</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>San Jose</LUGAR>
+			<MUNICIPIO>San Juan de la Rambla</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-25</INICIO>
+			<FINAL>25/04/2014</FINAL>
+			<NOMBRE>Control de la mosca de la fruta y aclareo</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Icod de Los Vinos</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-12</INICIO>
+			<FINAL>22/05/2014</FINAL>
+			<NOMBRE>Gestión de explotaciones agrarias</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Santa Bárbara</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-28</INICIO>
+			<FINAL>28/05/2014</FINAL>
+			<NOMBRE>Plagas y enfermedades de viña en vegetación</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Santa Bárbara</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-04</INICIO>
+			<FINAL>04/06/2014</FINAL>
+			<NOMBRE>Producción de semillas en agricultura ecológica.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>San Jose</LUGAR>
+			<MUNICIPIO>San Juan de la Rambla</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-09</INICIO>
+			<FINAL>09/07/2014</FINAL>
+			<NOMBRE>Variedades de brécol</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>San Marcos </LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-23</INICIO>
+			<FINAL>24/07/2014</FINAL>
+			<NOMBRE>Proceso conversión agricultura convencional a ecológica</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>6</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>San Jose</LUGAR>
+			<MUNICIPIO>San Juan de la Rambla</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-28</INICIO>
+			<FINAL>28/07/2014</FINAL>
+			<NOMBRE>Ensayo de variedades de lechuga Batavia</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Tamaimo</LUGAR>
+			<MUNICIPIO>Santiago del Teide</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-08-05</INICIO>
+			<FINAL>06/08/2014</FINAL>
+			<NOMBRE>Manejo de la fermentación alcohólica</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Santa Bárbara</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-06</INICIO>
+			<FINAL>06/10/2014</FINAL>
+			<NOMBRE>Lombricultura y elaboración de vermicompost.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Sesión teórico-práctica</TIPO>
+			<LUGAR>Santo Domingo </LUGAR>
+			<MUNICIPIO>La Guancha</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-10</INICIO>
+			<FINAL>20/11/2014</FINAL>
+			<NOMBRE>Manipulador de productos fitosanitarios. Nivel básico</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Icod de Los Vinos</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-18</INICIO>
+			<FINAL>18/11/2014</FINAL>
+			<NOMBRE>Ensayo de variedades de lechuga</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Tamaimo</LUGAR>
+			<MUNICIPIO>Santiago del Teide</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-25</INICIO>
+			<FINAL>25/11/2014</FINAL>
+			<NOMBRE>Ensayo de variedades de coliflor</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-25</INICIO>
+			<FINAL>25/11/2014</FINAL>
+			<NOMBRE>Financiación de proyectos e iniciativas empresariales en ámbito rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Sesión teórico-práctica</TIPO>
+			<LUGAR>Icod de Los Vinos</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-26</INICIO>
+			<FINAL>26/11/2014</FINAL>
+			<NOMBRE>El tratamiento del IGIC de las empresas agrarias</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Icod de Los Vinos</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-12-02</INICIO>
+			<FINAL>02/12/2014</FINAL>
+			<NOMBRE>Emprendeduria y técnicas de búsqueda de empleo en centros formativos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>San Jose</LUGAR>
+			<MUNICIPIO>San Juan de la Rambla</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-12-15</INICIO>
+			<FINAL>15/12/2014</FINAL>
+			<NOMBRE>Poda de cítricos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>La Florida</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+	<OFICINA sede="La Orotava">
+		<ACCION>
+			<INICIO>2014-01-16</INICIO>
+			<FINAL>16/01/2014</FINAL>
+			<NOMBRE>Labores de siembra en el cultivo de trigo. </NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Realejo Alto</LUGAR>
+			<MUNICIPIO>Los Realejos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-01-30</INICIO>
+			<FINAL>30/01/2014</FINAL>
+			<NOMBRE>Poda e injerto de la viña</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Montijos</LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-06</INICIO>
+			<FINAL>06/02/2014</FINAL>
+			<NOMBRE>Manejo de variedades locales de manzanos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Sesión teórico-práctica</TIPO>
+			<LUGAR>El Bebedero</LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-12</INICIO>
+			<FINAL>12/02/2014</FINAL>
+			<NOMBRE>Planificación de cultivos hortícolas</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>La Orotava </LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-17</INICIO>
+			<FINAL>26/02/2014</FINAL>
+			<NOMBRE>Manipulador de productos fitosanitarios. Nivel básico</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>La Orotava </LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-12</INICIO>
+			<FINAL>12/03/2014</FINAL>
+			<NOMBRE>Manejo de semilleros en horticultura ecológica</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>La Orotava </LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-12</INICIO>
+			<FINAL>12/03/2014</FINAL>
+			<NOMBRE>Manejo de semilleros en horticultura ecológica</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>La Orotava </LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-09</INICIO>
+			<FINAL>09/04/2014</FINAL>
+			<NOMBRE>Rotación de cultivos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Las Llanadas</LUGAR>
+			<MUNICIPIO>Los Realejos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-12</INICIO>
+			<FINAL>14/05/2014</FINAL>
+			<NOMBRE>Introducción a la Informática para el mundo rural</NOMBRE>
+			<DIAS>3</DIAS>
+			<HORAS>7.5</HORAS>
+			<TIPO>Cursillos</TIPO>
+			<LUGAR>El Bebedero</LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-19</INICIO>
+			<FINAL>23/05/2014</FINAL>
+			<NOMBRE>Agricultura ecológica</NOMBRE>
+			<DIAS>5</DIAS>
+			<HORAS>15</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>La Orotava </LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-23</INICIO>
+			<FINAL>23/05/2014</FINAL>
+			<NOMBRE>Mecanización del cultivo de papa</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Las Llanadas</LUGAR>
+			<MUNICIPIO>Los Realejos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-27</INICIO>
+			<FINAL>27/05/2014</FINAL>
+			<NOMBRE>Poda en verde de la viña</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Cruz Santa</LUGAR>
+			<MUNICIPIO>Los Realejos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-04</INICIO>
+			<FINAL>04/06/2014</FINAL>
+			<NOMBRE>Recogida mecanizada de papas</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>---</LUGAR>
+			<MUNICIPIO>Comarca Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-09</INICIO>
+			<FINAL>10/06/2014</FINAL>
+			<NOMBRE>Prácticas correctas de higiene en el ordeño, en la manipulación de leche y productos lácteos.</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>6</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>La Orotava </LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-16</INICIO>
+			<FINAL>16/06/2014</FINAL>
+			<NOMBRE>Variedades de brécol</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Santa Bárbara</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-18</INICIO>
+			<FINAL>18/06/2014</FINAL>
+			<NOMBRE>Control de la mosca de la fruta y aclareo</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>La Orotava </LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-09</INICIO>
+			<FINAL>09/07/2014</FINAL>
+			<NOMBRE>Labores de recolección en cereales y leguminosas. </NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>San Juan de La Rambla</LUGAR>
+			<MUNICIPIO>San Juan de la Rambla</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-29</INICIO>
+			<FINAL>29/07/2014</FINAL>
+			<NOMBRE>Visita a explotación ganadera en otra Comarca. </NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-08-27</INICIO>
+			<FINAL>28/08/2014</FINAL>
+			<NOMBRE>Elaboración de vinos tintos</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>La Orotava </LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-11</INICIO>
+			<FINAL>11/09/2014</FINAL>
+			<NOMBRE>Obligaciones con la seguridad social en el sector agrario</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Sesión teórico-práctica</TIPO>
+			<LUGAR>La Orotava </LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-25</INICIO>
+			<FINAL>25/09/2014</FINAL>
+			<NOMBRE>Asociacionismo y Marca de Garantía Tenerife Rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>El Palmar </LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-07</INICIO>
+			<FINAL>11/11/2014</FINAL>
+			<NOMBRE>Feria EIMA Bolonia</NOMBRE>
+			<DIAS>4</DIAS>
+			<HORAS>10</HORAS>
+			<TIPO>Viaje de estudios</TIPO>
+			<LUGAR>---</LUGAR>
+			<MUNICIPIO>Comarca Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-12-01</INICIO>
+			<FINAL>02/12/2014</FINAL>
+			<NOMBRE>Búsqueda activa de empleo a través de las nuevas tecnologías</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>La Orotava </LUGAR>
+			<MUNICIPIO>La Orotava</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-12-19</INICIO>
+			<FINAL>19/12/2014</FINAL>
+			<NOMBRE>Ensayo de variedades de coliflor</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+	<OFICINA sede="Tacoronte">
+		<ACCION>
+			<INICIO>2014-01-22</INICIO>
+			<FINAL>22/01/2014</FINAL>
+			<NOMBRE>Poda e injerto de la viña</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>El Sauzal</LUGAR>
+			<MUNICIPIO>El Sauzal</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-01-29</INICIO>
+			<FINAL>29/01/2014</FINAL>
+			<NOMBRE>Poda de frutales de pepita</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Sesión teórico-práctica</TIPO>
+			<LUGAR>La Matanza de Acentejo </LUGAR>
+			<MUNICIPIO>La Matanza de Acentejo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-05</INICIO>
+			<FINAL>05/02/2014</FINAL>
+			<NOMBRE>Abonado de la papa</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>La Matanza de Acentejo </LUGAR>
+			<MUNICIPIO>La Matanza de Acentejo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-19</INICIO>
+			<FINAL>19/03/2014</FINAL>
+			<NOMBRE>Plagas y enfermedades de viña en vegetación</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>El Sauzal</LUGAR>
+			<MUNICIPIO>El Sauzal</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-19</INICIO>
+			<FINAL>19/03/2014</FINAL>
+			<NOMBRE>Plagas y enfermedades de viña en vegetación</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>El Sauzal</LUGAR>
+			<MUNICIPIO>El Sauzal</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-02</INICIO>
+			<FINAL>02/04/2014</FINAL>
+			<NOMBRE>Elaboración de compost</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Sesión teórico-práctica</TIPO>
+			<LUGAR>Guayonje</LUGAR>
+			<MUNICIPIO>Tacoronte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-07</INICIO>
+			<FINAL>07/04/2014</FINAL>
+			<NOMBRE>Poda e injerto de castaños.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>La Matanza de Acentejo </LUGAR>
+			<MUNICIPIO>La Matanza de Acentejo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-23</INICIO>
+			<FINAL>23/04/2014</FINAL>
+			<NOMBRE>Producción y obtención de semilla ecológica</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Sesión teórico-práctica</TIPO>
+			<LUGAR>La Matanza de Acentejo </LUGAR>
+			<MUNICIPIO>La Matanza de Acentejo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-23</INICIO>
+			<FINAL>23/04/2014</FINAL>
+			<NOMBRE>Experiencia de comercialización de productos ecológicos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>La Matanza de Acentejo </LUGAR>
+			<MUNICIPIO>La Matanza de Acentejo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-24</INICIO>
+			<FINAL>24/04/2014</FINAL>
+			<NOMBRE>Planificación de cultivos, cuaderno de campo y trazabilidad.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>La Matanza de Acentejo </LUGAR>
+			<MUNICIPIO>La Matanza de Acentejo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-30</INICIO>
+			<FINAL>30/04/2014</FINAL>
+			<NOMBRE>Los abonos verdes</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Ravelo</LUGAR>
+			<MUNICIPIO>El Sauzal</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-07</INICIO>
+			<FINAL>07/05/2014</FINAL>
+			<NOMBRE>Control de la mosca de la fruta</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Tacoronte</LUGAR>
+			<MUNICIPIO>Tacoronte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-19</INICIO>
+			<FINAL>29/05/2014</FINAL>
+			<NOMBRE>Manipulador de productos fitosanitarios. Nivel básico</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Guayonje</LUGAR>
+			<MUNICIPIO>Tacoronte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-11</INICIO>
+			<FINAL>11/06/2014</FINAL>
+			<NOMBRE>Poda en verde de la viña</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>El Sauzal</LUGAR>
+			<MUNICIPIO>El Sauzal</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-08-28</INICIO>
+			<FINAL>28/08/2014</FINAL>
+			<NOMBRE>Ensayo cultivares de cebolla día intermedio</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Guayonje</LUGAR>
+			<MUNICIPIO>Tacoronte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-10</INICIO>
+			<FINAL>10/09/2014</FINAL>
+			<NOMBRE>Control de parámetros de vinificación.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Tacoronte</LUGAR>
+			<MUNICIPIO>Tacoronte</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+	<OFICINA sede="Buenavista">
+		<ACCION>
+			<INICIO>2014-01-23</INICIO>
+			<FINAL>28/11/2014</FINAL>
+			<NOMBRE>Deshijado y otras técnicas de producción en platanera</NOMBRE>
+			<DIAS>13</DIAS>
+			<HORAS>77</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>San Pedro de Daute</LUGAR>
+			<MUNICIPIO>Garachico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-01-29</INICIO>
+			<FINAL>29/01/2014</FINAL>
+			<NOMBRE>Poda e injerto de la viña</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>El Palmar </LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-10</INICIO>
+			<FINAL>20/02/2014</FINAL>
+			<NOMBRE>Manipulador de productos fitosanitarios. Nivel básico</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Buenavista Del Norte</LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-26</INICIO>
+			<FINAL>26/02/2014</FINAL>
+			<NOMBRE>Poda de cítricos</NOMBRE>
+			<DIAS>10</DIAS>
+			<HORAS>29.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Buenavista Del Norte</LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-26</INICIO>
+			<FINAL>26/03/2014</FINAL>
+			<NOMBRE>Plagas y enfermedades de la papa</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Tanque</LUGAR>
+			<MUNICIPIO>Tanque</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-08</INICIO>
+			<FINAL>08/05/2014</FINAL>
+			<NOMBRE>Experiencia de comercialización de productos ecológicos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Buenavista Del Norte</LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-27</INICIO>
+			<FINAL>27/05/2014</FINAL>
+			<NOMBRE>Instalaciones de CULTESA</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Guayonje</LUGAR>
+			<MUNICIPIO>Tacoronte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-30</INICIO>
+			<FINAL>30/05/2014</FINAL>
+			<NOMBRE>Mosca blanca en platanera</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>San Pedro de Daute</LUGAR>
+			<MUNICIPIO>Garachico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-18</INICIO>
+			<FINAL>20/06/2014</FINAL>
+			<NOMBRE>Cultivo del aguacate</NOMBRE>
+			<DIAS>3</DIAS>
+			<HORAS>6</HORAS>
+			<TIPO>Cursillos</TIPO>
+			<LUGAR>El Casco</LUGAR>
+			<MUNICIPIO>Los Silos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-03</INICIO>
+			<FINAL>03/07/2014</FINAL>
+			<NOMBRE>Variedades de brécol</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Santa Bárbara</LUGAR>
+			<MUNICIPIO>Icod de los Vinos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-24</INICIO>
+			<FINAL>24/07/2014</FINAL>
+			<NOMBRE>El cultivo de ajos y cebollas</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Buenavista Del Norte</LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-15</INICIO>
+			<FINAL>15/09/2014</FINAL>
+			<NOMBRE>Innovación empresarial en el medio rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Buenavista Del Norte</LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-18</INICIO>
+			<FINAL>18/09/2014</FINAL>
+			<NOMBRE>Emprendeduria y técnicas de búsqueda de empleo en centros formativos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>San Pedro de Daute</LUGAR>
+			<MUNICIPIO>Garachico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-01</INICIO>
+			<FINAL>01/10/2014</FINAL>
+			<NOMBRE>Financiación de proyectos e iniciativas empresariales en el ámbito rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Buenavista Del Norte</LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-06</INICIO>
+			<FINAL>12/10/2014</FINAL>
+			<NOMBRE>Paisajes agrarios de Tenerife y Agroturismo</NOMBRE>
+			<DIAS>6</DIAS>
+			<HORAS>31.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Casa del Agricultor</LUGAR>
+			<MUNICIPIO>Los Silos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-29</INICIO>
+			<FINAL>29/10/2014</FINAL>
+			<NOMBRE>Financiación de proyectos e iniciativas empresariales en el ámbito rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Buenavista Del Norte</LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-30</INICIO>
+			<FINAL>30/10/2014</FINAL>
+			<NOMBRE>Obtención de semillas de tomate</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Buenavista Del Norte</LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-14</INICIO>
+			<FINAL>14/11/2014</FINAL>
+			<NOMBRE>Jornadas técnicas del plátano</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>6</HORAS>
+			<TIPO>Jornadas técnicas especiales</TIPO>
+			<LUGAR>San Pedro de Daute</LUGAR>
+			<MUNICIPIO>Garachico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-18</INICIO>
+			<FINAL>18/11/2014</FINAL>
+			<NOMBRE>Innovación empresarial en el medio rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Buenavista Del Norte</LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-12-15</INICIO>
+			<FINAL>15/12/2014</FINAL>
+			<NOMBRE>Emprendeduria y técnicas de búsqueda de empleo en centros formativos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Buenavista Del Norte</LUGAR>
+			<MUNICIPIO>Buenavista del Norte</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+	<OFICINA sede="La Laguna">
+		<ACCION>
+			<INICIO>2014-01-28</INICIO>
+			<FINAL>06/02/2014</FINAL>
+			<NOMBRE>Huertos de autoconsumo on-line</NOMBRE>
+			<DIAS>10</DIAS>
+			<HORAS>30</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>La Cuesta</LUGAR>
+			<MUNICIPIO>La Laguna</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-11</INICIO>
+			<FINAL>12/02/2014</FINAL>
+			<NOMBRE>Poda de frutales de hueso y pepita</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>La Esperanza </LUGAR>
+			<MUNICIPIO>El Rosario</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-13</INICIO>
+			<FINAL>13/02/2014</FINAL>
+			<NOMBRE>Injerto de frutales templados</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Tegueste</LUGAR>
+			<MUNICIPIO>Tegueste</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-18</INICIO>
+			<FINAL>19/02/2014</FINAL>
+			<NOMBRE>Poda de frutales de hueso y pepita</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Tegueste</LUGAR>
+			<MUNICIPIO>Tegueste</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-20</INICIO>
+			<FINAL>20/02/2014</FINAL>
+			<NOMBRE>Injerto de frutales templados</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>La Esperanza </LUGAR>
+			<MUNICIPIO>El Rosario</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-26</INICIO>
+			<FINAL>26/02/2014</FINAL>
+			<NOMBRE>Plagas y enfermedades de la papa</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>El Sobradillo</LUGAR>
+			<MUNICIPIO>Santa Cruz de Tenerife</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-20</INICIO>
+			<FINAL>20/03/2014</FINAL>
+			<NOMBRE>Control de la mosca de la fruta</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Tegueste</LUGAR>
+			<MUNICIPIO>Tegueste</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-26</INICIO>
+			<FINAL>26/03/2014</FINAL>
+			<NOMBRE>Plagas y enfermedades de viña en vegetación</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>El Sobradillo</LUGAR>
+			<MUNICIPIO>Santa Cruz de Tenerife</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-01</INICIO>
+			<FINAL>02/04/2014</FINAL>
+			<NOMBRE>Plantas aromáticas y medicinales</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>San Cristobal de La Laguna</LUGAR>
+			<MUNICIPIO>La Laguna</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-03</INICIO>
+			<FINAL>03/04/2014</FINAL>
+			<NOMBRE>Legalización de bodegas</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>El Ortigal </LUGAR>
+			<MUNICIPIO>La Laguna</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-24</INICIO>
+			<FINAL>24/04/2014</FINAL>
+			<NOMBRE>Metodología para formadores en cursos manipulador de fitosanitarios</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>4.5</HORAS>
+			<TIPO>Jornadas técnicas especiales</TIPO>
+			<LUGAR>Todos</LUGAR>
+			<MUNICIPIO>Todos</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-28</INICIO>
+			<FINAL>28/04/2014</FINAL>
+			<NOMBRE>Control de la mosca de la fruta y aclareo</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Igueste de San Andres</LUGAR>
+			<MUNICIPIO>Santa Cruz de Tenerife</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-06</INICIO>
+			<FINAL>06/05/2014</FINAL>
+			<NOMBRE>Plagas y enfermedades de la papa</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Las Rosas</LUGAR>
+			<MUNICIPIO>El Rosario</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-06</INICIO>
+			<FINAL>06/05/2014</FINAL>
+			<NOMBRE>Actualización de conocimientos sobre manipulación de fitosanitarios</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>El Sobradillo</LUGAR>
+			<MUNICIPIO>Santa Cruz de Tenerife</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-22</INICIO>
+			<FINAL>22/05/2014</FINAL>
+			<NOMBRE>Instalaciones de CULTESA y CCBAT</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>---</LUGAR>
+			<MUNICIPIO>Comarca Metropolitana</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-18</INICIO>
+			<FINAL>18/06/2014</FINAL>
+			<NOMBRE>Actualización de conocimientos sobre manipulación de fitosanitarios</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>El Tablero</LUGAR>
+			<MUNICIPIO>Santa Cruz de Tenerife</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-20</INICIO>
+			<FINAL>23/06/2014</FINAL>
+			<NOMBRE>Fertilización de cultivos hortícolas</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4.5</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>El Tablero</LUGAR>
+			<MUNICIPIO>Santa Cruz de Tenerife</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-24</INICIO>
+			<FINAL>24/06/2014</FINAL>
+			<NOMBRE>Cultivo del pimiento</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>El Tablero</LUGAR>
+			<MUNICIPIO>Santa Cruz de Tenerife</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-19</INICIO>
+			<FINAL>19/07/2014</FINAL>
+			<NOMBRE>Reconocimiento de variedades tradicionales de higuera</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Tegueste</LUGAR>
+			<MUNICIPIO>Tegueste</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-08-20</INICIO>
+			<FINAL>20/08/2014</FINAL>
+			<NOMBRE>Variedades tradicionales del CCBAT</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Igueste de San Andres</LUGAR>
+			<MUNICIPIO>Santa Cruz de Tenerife</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-13</INICIO>
+			<FINAL>13/09/2014</FINAL>
+			<NOMBRE>Control de la mosca de la fruta y aclareo</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>San Cristobal de La Laguna</LUGAR>
+			<MUNICIPIO>La Laguna</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-24</INICIO>
+			<FINAL>24/09/2014</FINAL>
+			<NOMBRE>Atención al cliente en el Mercadillo del Agricultor</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>La Esperanza </LUGAR>
+			<MUNICIPIO>El Rosario</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-01</INICIO>
+			<FINAL>01/10/2014</FINAL>
+			<NOMBRE>Control de maduración</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Las Rosas</LUGAR>
+			<MUNICIPIO>El Rosario</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-02</INICIO>
+			<FINAL>02/10/2014</FINAL>
+			<NOMBRE>Comercialización y técnicas de venta de productos agrarios</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>---</LUGAR>
+			<MUNICIPIO>Comarca Metropolitana</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-06</INICIO>
+			<FINAL>12/12/2014</FINAL>
+			<NOMBRE>Formación en emprendeduria en el sector agrario "on - line"</NOMBRE>
+			<DIAS>28</DIAS>
+			<HORAS>80</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>San Cristobal de La Laguna</LUGAR>
+			<MUNICIPIO>La Laguna</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-11</INICIO>
+			<FINAL>11/11/2014</FINAL>
+			<NOMBRE>Rotación de cultivos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Las Mercedes </LUGAR>
+			<MUNICIPIO>La Laguna</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-27</INICIO>
+			<FINAL>27/11/2014</FINAL>
+			<NOMBRE>Emprendeduria en el sector agrario.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas técnicas especiales</TIPO>
+			<LUGAR>Tacoronte</LUGAR>
+			<MUNICIPIO>Tacoronte</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-12-02</INICIO>
+			<FINAL>02/12/2014</FINAL>
+			<NOMBRE>Poda del olivo</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>San Cristobal de La Laguna</LUGAR>
+			<MUNICIPIO>La Laguna</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+	<OFICINA sede="Fasnia">
+		<ACCION>
+			<INICIO>2014-01-29</INICIO>
+			<FINAL>30/01/2014</FINAL>
+			<NOMBRE>Iniciación a la cata de aceite de oliva virgen extra.</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Poris de Abona</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-14</INICIO>
+			<FINAL>14/02/2014</FINAL>
+			<NOMBRE>Poda de la viña para mujeres.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Fasnia</LUGAR>
+			<MUNICIPIO>Fasnia</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-10</INICIO>
+			<FINAL>10/04/2014</FINAL>
+			<NOMBRE>Mejora de las técnicas de comercialización del aguacate.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Valle de San Lorenzo</LUGAR>
+			<MUNICIPIO>Arona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-10</INICIO>
+			<FINAL>10/04/2014</FINAL>
+			<NOMBRE>Manejo de nuevas plantaciones de aguacates</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Valle de San Lorenzo</LUGAR>
+			<MUNICIPIO>Arona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-29</INICIO>
+			<FINAL>29/04/2014</FINAL>
+			<NOMBRE>Control de la mosca de la fruta y aclareo</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>La Cisnera</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-15</INICIO>
+			<FINAL>15/05/2014</FINAL>
+			<NOMBRE>Producción de cebollas de variedades locales y producción de ajillos.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Fasnia</LUGAR>
+			<MUNICIPIO>Fasnia</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-11</INICIO>
+			<FINAL>13/06/2014</FINAL>
+			<NOMBRE>Elaboración de vinos</NOMBRE>
+			<DIAS>3</DIAS>
+			<HORAS>5.5</HORAS>
+			<TIPO>Cursillos</TIPO>
+			<LUGAR>Arico Viejo</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-03</INICIO>
+			<FINAL>03/07/2014</FINAL>
+			<NOMBRE>Extracción de color en vino tinto.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Arico Viejo</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-10</INICIO>
+			<FINAL>10/07/2014</FINAL>
+			<NOMBRE>Técnicas de manejo en cultivo y almazara para la obtención de aceite de calidad.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Arico O Lomo de Arico</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-11</INICIO>
+			<FINAL>11/09/2014</FINAL>
+			<NOMBRE>Control de parámetros de vinificación.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Fasnia</LUGAR>
+			<MUNICIPIO>Fasnia</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-25</INICIO>
+			<FINAL>26/09/2014</FINAL>
+			<NOMBRE>Mejora de la competitividad comercial de empresas en zonas rurales</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Fasnia</LUGAR>
+			<MUNICIPIO>Fasnia</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-13</INICIO>
+			<FINAL>13/11/2014</FINAL>
+			<NOMBRE>Cultivo de claveles y otras flores.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Fasnia</LUGAR>
+			<MUNICIPIO>Fasnia</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-14</INICIO>
+			<FINAL>18/11/2014</FINAL>
+			<NOMBRE>Zonas productoras de aceite de oliva virgen extra en Andalucía.</NOMBRE>
+			<DIAS>4</DIAS>
+			<HORAS>15</HORAS>
+			<TIPO>Viaje de estudios</TIPO>
+			<LUGAR>Fasnia</LUGAR>
+			<MUNICIPIO>Fasnia</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-12-09</INICIO>
+			<FINAL>09/12/2014</FINAL>
+			<NOMBRE>Poda de frutales templados</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>La Cisnera</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+	<OFICINA sede="Valle San Lorenzo">
+		<ACCION>
+			<INICIO>2014-01-30</INICIO>
+			<FINAL>30/01/2014</FINAL>
+			<NOMBRE>Poda e injerto de la viña</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Arona</LUGAR>
+			<MUNICIPIO>Arona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-17</INICIO>
+			<FINAL>27/02/2014</FINAL>
+			<NOMBRE>Manipulador de productos fitosanitarios. Nivel básico</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Valle de San Lorenzo</LUGAR>
+			<MUNICIPIO>Arona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-03</INICIO>
+			<FINAL>03/11/2014</FINAL>
+			<NOMBRE>Técnicas de Producción en platanera</NOMBRE>
+			<DIAS>13</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>---</LUGAR>
+			<MUNICIPIO>Comarca Sur</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-24</INICIO>
+			<FINAL>24/04/2014</FINAL>
+			<NOMBRE>El cultivo de ajos y cebollas</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Arona</LUGAR>
+			<MUNICIPIO>Arona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-04</INICIO>
+			<FINAL>04/09/2014</FINAL>
+			<NOMBRE>Parcela demostrativa de variedades de cebolla de día intermedio</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>San Miguel</LUGAR>
+			<MUNICIPIO>San Miguel</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-09</INICIO>
+			<FINAL>09/10/2014</FINAL>
+			<NOMBRE>Innovación empresarial en el medio rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Valle de San Lorenzo</LUGAR>
+			<MUNICIPIO>Arona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-24</INICIO>
+			<FINAL>24/10/2014</FINAL>
+			<NOMBRE>Clarificación de vinos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Arona</LUGAR>
+			<MUNICIPIO>Arona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-25</INICIO>
+			<FINAL>25/11/2014</FINAL>
+			<NOMBRE>Obligaciones con la seguridad social en el sector agrario</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>San Isidro</LUGAR>
+			<MUNICIPIO>Granadilla de Abona</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+	<OFICINA sede="Guía de Isora">
+		<ACCION>
+			<INICIO>2014-01-30</INICIO>
+			<FINAL>30/01/2014</FINAL>
+			<NOMBRE>Manejo de los cítricos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Guía de Isora</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-02-14</INICIO>
+			<FINAL>14/02/2014</FINAL>
+			<NOMBRE>Ensayo de variedades de pimiento</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Alcala</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-31</INICIO>
+			<FINAL>10/04/2014</FINAL>
+			<NOMBRE>Manipulador de productos fitosanitarios. Nivel básico</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Guía de Isora</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-15</INICIO>
+			<FINAL>15/05/2014</FINAL>
+			<NOMBRE>Poda en verde de la viña</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Guía de Isora</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-16</INICIO>
+			<FINAL>16/05/2014</FINAL>
+			<NOMBRE>Extracción de color en vino tinto.</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Guía de Isora</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-26</INICIO>
+			<FINAL>26/06/2014</FINAL>
+			<NOMBRE>Cultivo del Litchi</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Guía de Isora</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-29</INICIO>
+			<FINAL>29/07/2014</FINAL>
+			<NOMBRE>Ensayo de variedades de lechuga</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Tamaimo</LUGAR>
+			<MUNICIPIO>Santiago del Teide</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-08-06</INICIO>
+			<FINAL>06/08/2014</FINAL>
+			<NOMBRE>Control de maduración</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Guía de Isora</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-30</INICIO>
+			<FINAL>01/10/2014</FINAL>
+			<NOMBRE>Búsqueda activa de empleo a través de las nuevas tecnologías</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Guía de Isora</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-08</INICIO>
+			<FINAL>08/10/2014</FINAL>
+			<NOMBRE>Poda del olivo</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Tijoco de Abajo</LUGAR>
+			<MUNICIPIO>Adeje</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-22</INICIO>
+			<FINAL>22/10/2014</FINAL>
+			<NOMBRE>Emprendeduría en el Sector Agrario</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Guía de Isora</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-23</INICIO>
+			<FINAL>23/10/2014</FINAL>
+			<NOMBRE>Innovación empresarial en el medio rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Guía de Isora</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-13</INICIO>
+			<FINAL>13/11/2014</FINAL>
+			<NOMBRE>Mejora de la competitividad comercial de empresas en zonas rurales</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Guía de Isora</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+	<OFICINA sede="Granadilla">
+		<ACCION>
+			<INICIO>2014-02-07</INICIO>
+			<FINAL>07/02/2014</FINAL>
+			<NOMBRE>Riego y abonado de la viña</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Granadilla de Abona</LUGAR>
+			<MUNICIPIO>Granadilla de Abona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-29</INICIO>
+			<FINAL>29/04/2014</FINAL>
+			<NOMBRE>Control de la mosca de la fruta y aclareo</NOMBRE>
+			<DIAS>10</DIAS>
+			<HORAS>26.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>El Médano</LUGAR>
+			<MUNICIPIO>Granadilla de Abona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-06</INICIO>
+			<FINAL>06/06/2014</FINAL>
+			<NOMBRE>Recogida mecanizada de papas</NOMBRE>
+			<DIAS>10</DIAS>
+			<HORAS>29.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>San Miguel</LUGAR>
+			<MUNICIPIO>San Miguel</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-08-07</INICIO>
+			<FINAL>07/08/2014</FINAL>
+			<NOMBRE>Innovación empresarial en el medio rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Granadilla de Abona</LUGAR>
+			<MUNICIPIO>Granadilla de Abona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-11</INICIO>
+			<FINAL>11/09/2014</FINAL>
+			<NOMBRE>Innovación empresarial en el medio rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>San Miguel</LUGAR>
+			<MUNICIPIO>San Miguel</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-06</INICIO>
+			<FINAL>16/10/2014</FINAL>
+			<NOMBRE>Gestión de explotaciones agrarias</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Poris de Abona</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-06</INICIO>
+			<FINAL>17/10/2014</FINAL>
+			<NOMBRE>Manipulador de productos fitosanitarios. Nivel básico</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Granadilla de Abona</LUGAR>
+			<MUNICIPIO>Granadilla de Abona</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-06</INICIO>
+			<FINAL>06/11/2014</FINAL>
+			<NOMBRE>Jornada de comercialización on-line</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>San Cristobal de La Laguna</LUGAR>
+			<MUNICIPIO>La Laguna</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-28</INICIO>
+			<FINAL>28/11/2014</FINAL>
+			<NOMBRE>Tratamientos de invierno y descarga</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>San Isidro</LUGAR>
+			<MUNICIPIO>Granadilla de Abona</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+	<OFICINA sede="Arico">
+		<ACCION>
+			<INICIO>2014-02-10</INICIO>
+			<FINAL>20/02/2014</FINAL>
+			<NOMBRE>Manipulador de productos fitosanitarios. Nivel básico</NOMBRE>
+			<DIAS>8</DIAS>
+			<HORAS>25.5</HORAS>
+			<TIPO>Cursos</TIPO>
+			<LUGAR>Arico Viejo</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-25</INICIO>
+			<FINAL>25/03/2014</FINAL>
+			<NOMBRE>Experiencia de comercialización de productos ecológicos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Arico Viejo</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-06</INICIO>
+			<FINAL>06/05/2014</FINAL>
+			<NOMBRE>Planificación de cultivos hortícolas</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Arico Viejo</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-08</INICIO>
+			<FINAL>09/07/2014</FINAL>
+			<NOMBRE>Obtención y manejo de semillas ecológicas</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Arico O Lomo de Arico</LUGAR>
+			<MUNICIPIO>Arico</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-18</INICIO>
+			<FINAL>18/11/2014</FINAL>
+			<NOMBRE>Ensayo de variedades de lechuga Batavia</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Tamaimo</LUGAR>
+			<MUNICIPIO>Santiago del Teide</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-25</INICIO>
+			<FINAL>25/11/2014</FINAL>
+			<NOMBRE>Ensayo de variedades de coliflor</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+	<OFICINA sede="Güímar">
+		<ACCION>
+			<INICIO>2014-01-21</INICIO>
+			<FINAL>21/01/2014</FINAL>
+			<NOMBRE>Poda de cítricos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>La Hidalga</LUGAR>
+			<MUNICIPIO>Arafo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-13</INICIO>
+			<FINAL>14/03/2014</FINAL>
+			<NOMBRE>Introducción a la Informática y a las redes sociales para la mujer rural</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>6</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Candelaria</LUGAR>
+			<MUNICIPIO>Candelaria</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-13</INICIO>
+			<FINAL>14/03/2014</FINAL>
+			<NOMBRE>Introducción a la Informática y a las redes sociales para la mujer rural</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>6</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Candelaria</LUGAR>
+			<MUNICIPIO>Candelaria</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-03-28</INICIO>
+			<FINAL>28/03/2014</FINAL>
+			<NOMBRE>Control de la mosca de la fruta y aclareo</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Arafo</LUGAR>
+			<MUNICIPIO>Arafo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-02</INICIO>
+			<FINAL>02/04/2014</FINAL>
+			<NOMBRE>Manejo de nuevas plantaciones de mangos</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Arafo</LUGAR>
+			<MUNICIPIO>Arafo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-04-02</INICIO>
+			<FINAL>02/04/2014</FINAL>
+			<NOMBRE>Manejo de nuevas plantaciones de aguacates</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Arafo</LUGAR>
+			<MUNICIPIO>Arafo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-05-26</INICIO>
+			<FINAL>31/05/2014</FINAL>
+			<NOMBRE>Nuevas plantaciones de cítricos en Alicante y de uva de mesa en Murcia.</NOMBRE>
+			<DIAS>5</DIAS>
+			<HORAS>7.5</HORAS>
+			<TIPO>Viaje de estudios</TIPO>
+			<LUGAR>---</LUGAR>
+			<MUNICIPIO>Comarca Metropolitana</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-05</INICIO>
+			<FINAL>06/06/2014</FINAL>
+			<NOMBRE>Técnicas de venta a través de internet para mujeres.</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Candelaria</LUGAR>
+			<MUNICIPIO>Candelaria</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-11</INICIO>
+			<FINAL>11/06/2014</FINAL>
+			<NOMBRE>Los abonos verdes</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Candelaria</LUGAR>
+			<MUNICIPIO>Candelaria</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-06-12</INICIO>
+			<FINAL>12/06/2014</FINAL>
+			<NOMBRE>Producción uva de calidad</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-11</INICIO>
+			<FINAL>11/07/2014</FINAL>
+			<NOMBRE>Biofumigación en hortalizas</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-16</INICIO>
+			<FINAL>18/07/2014</FINAL>
+			<NOMBRE>Cultivo de flores</NOMBRE>
+			<DIAS>3</DIAS>
+			<HORAS>9</HORAS>
+			<TIPO>Cursillos</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-24</INICIO>
+			<FINAL>24/07/2014</FINAL>
+			<NOMBRE>Parcela demostrativa de variedades locales</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-24</INICIO>
+			<FINAL>24/07/2014</FINAL>
+			<NOMBRE>Identificación de enemigos naturales para el control de plagas</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-07-29</INICIO>
+			<FINAL>29/07/2014</FINAL>
+			<NOMBRE>Ensayos de cultivos hortícolas de la zona sur</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-08-08</INICIO>
+			<FINAL>09/08/2014</FINAL>
+			<NOMBRE>Cultivo del mamey y del chirimoyo</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Playa San Juan</LUGAR>
+			<MUNICIPIO>Guía de Isora</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-17</INICIO>
+			<FINAL>17/09/2014</FINAL>
+			<NOMBRE>Innovación empresarial en el medio rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-25</INICIO>
+			<FINAL>26/09/2014</FINAL>
+			<NOMBRE>Cultivo de la pitaya</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>4</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-09-29</INICIO>
+			<FINAL>29/09/2014</FINAL>
+			<NOMBRE>Oportunidades empresariales para mujeres del medio rural</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-02</INICIO>
+			<FINAL>02/10/2014</FINAL>
+			<NOMBRE> Reutilización de aguas residuales en áreas rurales </NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>La Medida</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-03</INICIO>
+			<FINAL>03/10/2014</FINAL>
+			<NOMBRE>Cultivo ecológico del aguacate</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Demostración</TIPO>
+			<LUGAR>Arafo</LUGAR>
+			<MUNICIPIO>Arafo</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-10-15</INICIO>
+			<FINAL>16/10/2014</FINAL>
+			<NOMBRE>Mejora de la competitividad comercial de empresas en zonas rurales</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>3</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-03</INICIO>
+			<FINAL>04/11/2014</FINAL>
+			<NOMBRE>Cultivo del millo y la calabaza</NOMBRE>
+			<DIAS>2</DIAS>
+			<HORAS>0</HORAS>
+			<TIPO>Jornadas</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-07</INICIO>
+			<FINAL>07/11/2014</FINAL>
+			<NOMBRE>Colección Pies Madres Higueras CCBAT</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Araya</LUGAR>
+			<MUNICIPIO>Candelaria</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-21</INICIO>
+			<FINAL>21/11/2014</FINAL>
+			<NOMBRE>Cultivo de la batata</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Candelaria</LUGAR>
+			<MUNICIPIO>Candelaria</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-25</INICIO>
+			<FINAL>25/11/2014</FINAL>
+			<NOMBRE>Ensayo de variedades de coliflor</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>2.5</HORAS>
+			<TIPO>Visita</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+		<ACCION>
+			<INICIO>2014-11-27</INICIO>
+			<FINAL>27/11/2014</FINAL>
+			<NOMBRE>Cultivo del aguacate</NOMBRE>
+			<DIAS>1</DIAS>
+			<HORAS>1.5</HORAS>
+			<TIPO>Charla</TIPO>
+			<LUGAR>Güimar</LUGAR>
+			<MUNICIPIO>Güimar</MUNICIPIO>
+		</ACCION>
+	</OFICINA>
+</ACCIONES>

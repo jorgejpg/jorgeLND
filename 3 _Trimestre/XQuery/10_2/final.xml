@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+   <head>
+      <title>Tarea10.2</title>
+   </head>
+   <body>
+      <h2>Apartado 1</h2>
+      <h3>Información de las 11 oficinas agrarias del Cabildo:</h3>
+      <table>
+         <tr>
+            <th bgcolor="orange">OFICINA</th>
+            <th bgcolor="orange">CURSOS</th>
+            <th bgcolor="orange">CHARLA</th>
+            <th bgcolor="orange">VISITA</th>
+            <th bgcolor="orange">CURSILLOS</th>
+         </tr>
+         <tr>
+            <td>Arico</td>
+            <td>1</td>
+            <td>2</td>
+            <td>2</td>
+            <td>0</td>
+         </tr>
+         <tr>
+            <td>Buenavista</td>
+            <td>4</td>
+            <td>8</td>
+            <td>2</td>
+            <td>1</td>
+         </tr>
+         <tr>
+            <td>Fasnia</td>
+            <td>0</td>
+            <td>4</td>
+            <td>1</td>
+            <td>1</td>
+         </tr>
+         <tr>
+            <td>Granadilla</td>
+            <td>4</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+         </tr>
+         <tr>
+            <td>Guía de Isora</td>
+            <td>1</td>
+            <td>4</td>
+            <td>2</td>
+            <td>0</td>
+         </tr>
+         <tr>
+            <td>Güímar</td>
+            <td>0</td>
+            <td>6</td>
+            <td>5</td>
+            <td>1</td>
+         </tr>
+         <tr>
+            <td>Icod de los Vinos</td>
+            <td>4</td>
+            <td>6</td>
+            <td>4</td>
+            <td>0</td>
+         </tr>
+         <tr>
+            <td>La Laguna</td>
+            <td>2</td>
+            <td>10</td>
+            <td>2</td>
+            <td>0</td>
+         </tr>
+         <tr>
+            <td>La Orotava</td>
+            <td>2</td>
+            <td>8</td>
+            <td>3</td>
+            <td>1</td>
+         </tr>
+         <tr>
+            <td>Tacoronte</td>
+            <td>1</td>
+            <td>7</td>
+            <td>1</td>
+            <td>0</td>
+         </tr>
+         <tr>
+            <td>Valle San Lorenzo</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>0</td>
+         </tr>
+      </table>
+      <br/>
+      <br/>
+      <h2>Apartado 2</h2>
+      <h3>Cursos de más de 26 horas:</h3>
+      <table>
+         <tr>
+            <th bgcolor="orange">Horas</th>
+            <th bgcolor="orange">Nombre</th>
+            <th bgcolor="orange">Oficina</th>
+            <th bgcolor="orange">Lugar</th>
+            <th bgcolor="orange">Municipio</th>
+         </tr>
+         <tr>
+            <td>77</td>
+            <td>Deshijado y otras técnicas de producción en platanera</td>
+            <td>Buenavista</td>
+            <td>San Pedro de Daute</td>
+            <td>Garachico</td>
+         </tr>
+         <tr>
+            <td>29.5</td>
+            <td>Poda de cítricos</td>
+            <td>Buenavista</td>
+            <td>Buenavista Del Norte</td>
+            <td>Buenavista del Norte</td>
+         </tr>
+         <tr>
+            <td>31.5</td>
+            <td>Paisajes agrarios de Tenerife y Agroturismo</td>
+            <td>Buenavista</td>
+            <td>Casa del Agricultor</td>
+            <td>Los Silos</td>
+         </tr>
+         <tr>
+            <td>30</td>
+            <td>Huertos de autoconsumo on-line</td>
+            <td>La Laguna</td>
+            <td>La Cuesta</td>
+            <td>La Laguna</td>
+         </tr>
+         <tr>
+            <td>80</td>
+            <td>Formación en emprendeduria en el sector agrario "on - line"</td>
+            <td>La Laguna</td>
+            <td>San Cristobal de La Laguna</td>
+            <td>La Laguna</td>
+         </tr>
+         <tr>
+            <td>26.5</td>
+            <td>Control de la mosca de la fruta y aclareo</td>
+            <td>Granadilla</td>
+            <td>El Médano</td>
+            <td>Granadilla de Abona</td>
+         </tr>
+         <tr>
+            <td>29.5</td>
+            <td>Recogida mecanizada de papas</td>
+            <td>Granadilla</td>
+            <td>San Miguel</td>
+            <td>San Miguel</td>
+         </tr>
+      </table>
+      <br/>
+      <br/>
+      <h2>Apartado 3</h2>
+      <h3>Acciones destinadas al aguacate iniciadas en el segundo semestre</h3>
+      <table>
+         <tr>
+            <th bgcolor="orange">Acción Nº</th>
+            <th bgcolor="orange">Nombre</th>
+            <th bgcolor="orange">Oficina</th>
+         </tr>
+         <tr>
+            <td>69</td>
+            <td>Cultivo del aguacate</td>
+            <td>Buenavista</td>
+         </tr>
+         <tr>
+            <td>111</td>
+            <td>Mejora de las técnicas de comercialización del aguacate.</td>
+            <td>Fasnia</td>
+         </tr>
+         <tr>
+            <td>112</td>
+            <td>Manejo de nuevas plantaciones de aguacates</td>
+            <td>Fasnia</td>
+         </tr>
+         <tr>
+            <td>164</td>
+            <td>Manejo de nuevas plantaciones de aguacates</td>
+            <td>Güímar</td>
+         </tr>
+         <tr>
+            <td>179</td>
+            <td>Cultivo ecológico del aguacate</td>
+            <td>Güímar</td>
+         </tr>
+         <tr>
+            <td>185</td>
+            <td>Cultivo del aguacate</td>
+            <td>Güímar</td>
+         </tr>
+      </table>
+   </body>
+</html>

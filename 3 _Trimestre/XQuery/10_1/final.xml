@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+   <h1>Comentarios de abril con la palabra 'No' ordenados por CIAL</h1>
+   <table>
+      <tr>
+         <th bgcolor="orange" style="border: 1px solid orange;">CIAL</th>
+         <th bgcolor="orange" style="border: 1px solid orange;">Comentario</th>
+      </tr>
+      <tr>
+         <td>A92T861</td>
+         <td>
+		      No entrega supuesto práctico de subnetting
+		 </td>
+      </tr>
+      <tr>
+         <td>A92T861</td>
+         <td>
+		      No sube a la plataforma presupuesto para un CPD
+		 </td>
+      </tr>
+      <tr>
+         <td>A92R590</td>
+         <td>
+		      No entrega supuesto práctico de subnetting
+		 </td>
+      </tr>
+      <tr>
+         <td>A92R590</td>
+         <td>
+		      No sube a la plataforma presupuesto para un CPD
+		 </td>
+      </tr>
+   </table>
+   <br/>
+   <br/>
+   <h1>Lista de Ciales de alumnos que tienen menos de 3 comentarios</h1>
+   <ul>
+      <li>A18X111</li>
+      <li>A27M242</li>
+      <li>A90R112</li>
+      <li>A92R590</li>
+   </ul>
+   <br/>
+   <br/>
+   <h1>Lista y posición de los comentarios con la palabra CPD</h1>
+   <ul>
+      <li>Número de comentario: 10: A92T861
+		      No sube a la plataforma presupuesto para un CPD
+		 </li>
+      <li>Número de comentario: 14: A95M600
+		      Entrega presupuesto para un CPD en papel
+		 </li>
+      <li>Número de comentario: 16: A92R590
+		      No sube a la plataforma presupuesto para un CPD
+		 </li>
+   </ul>
+</html>
